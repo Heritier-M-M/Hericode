@@ -1,4 +1,8 @@
 
+* {
+    overflow: auto;
+}
+
 body{
     background-color: #8BA1BB;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -132,9 +136,7 @@ table.prepa{
 table.prepa tr{
     height: 40px;
 }
-* {
-    overflow: auto;
-}
+
 div.ombre{
     box-shadow: 0px 0px 8px 5px #626464;
 }
