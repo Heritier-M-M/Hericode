@@ -1,0 +1,140 @@
+
+body{
+    background-color: #8BA1BB;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p.categorie{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 8px 18px;
+    margin-top: 0px;
+    margin-bottom: -10px;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+div.contenu{
+        background-color: white;
+        margin: 0px 10% 80px 10%;
+        padding: 30px;
+        min-width: 350px;
+}
+
+h1{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+p.neymar{
+    text-align: center;
+    max-width: 350px;
+    display: inline-block;
+    font-size: 14px;
+}
+.centre{
+    text-align: center;
+    width: 100%;
+}
+div.categorie{
+    margin-bottom: -15px;
+    margin-top: 60px;
+}
+.separateur{
+    
+    background-color: black;
+    height: 1px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.info{
+    position: relative;
+}
+img.centre{
+    display: block;
+}
+table.info{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+    background-color: #6c829dC0; 
+    height: 80px;
+}
+table.info td{
+    text-align: center;
+    vertical-align: top;
+    font-size: 14px;
+}
+table.info th {
+    font-size: 16px;
+    vertical-align: bottom;
+    padding-bottom: 4px;
+}
+img.info{
+    max-height: 400px;
+    object-fit: cover;
+    min-height: 200px;
+    background-color: lightgray;
+}
+div.colonne h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    border-bottom: 4px solid #6c829dC0;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+div.colonne{
+    width: 45%;
+    margin-top: 20px;
+}
+.colonne1{
+    display: inline-block;
+    margin-right: 10%;
+}
+.colonne2{
+    float: right;
+}
+
+
+p.li{
+    text-align: center;
+    border: 1px solid  #6c829DC0;
+    padding: 8px 0;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+table.prepa p.num{
+    background-color: #6c829dC0;
+    color: white;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 4px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    margin: 0;
+}
+table.prepa{
+    vertical-align: top;
+}
+.prepa2{
+    font-size: 14px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+table.prepa tr{
+    height: 40px;
+}
+* {
+    overflow: auto;
+}
+div.ombre{
+    box-shadow: 0px 0px 8px 5px #626464;
+}
